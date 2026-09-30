@@ -1,2 +1,2 @@
 This is file 1.
-
+Added more information to file 2.
